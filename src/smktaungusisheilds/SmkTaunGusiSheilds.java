@@ -82,7 +82,7 @@ public class SmkTaunGusiSheilds implements ActionListener {
       panel.add(message);
     }   
      @Override
-       //Implementation of Polymorphism overloading and a Method
+       
        public void actionPerformed(ActionEvent ae){
          //login button action   
         String userName = txtmyusername.getText();
